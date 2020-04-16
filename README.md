@@ -15,11 +15,11 @@ The official Auto Sci-hub of chrome extensions have been ban and unable to used,
 
 **3.** Turn the CRX file into a ZIP file.
 
-**OR** Download the unpacked folder **auto sci-hub**.
-
 **4.** Locate the ZIP file on your computer and unzip it.
 
-**5.** Go back to the chrome://extensions/ page and click the  **Load unpacked extension**  button and select the unzipped folder for your extension to install it.
+**OR** Download the unpacked folder **auto sci-hub**.
+
+**5.** Go back to the **chrome://extensions/** page and click the  **Load unpacked extension**  button and select the unzipped folder for your extension to install it.
 
 ## New function
 
