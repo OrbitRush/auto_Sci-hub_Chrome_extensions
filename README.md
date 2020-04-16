@@ -28,7 +28,7 @@ This version add a new function of options, which can change the sci-hub domain.
 
 
 # 中文介绍
-Chrome插件，一键从Sci-Hub上下载论文。
+Chrome插件，一键从Sci-Hub下载论文。
 
 ## 如何使用
 
