@@ -1,0 +1,41 @@
+{
+   "background": {
+      "scripts": [ "shRedirect.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "icons/icon-16.png",
+         "19": "icons/icon-19.png",
+         "24": "icons/icon-24.png",
+         "32": "icons/icon-32.png",
+         "38": "icons/icon-38.png"
+      },
+      "default_title": "Open in Sci-hub"
+   },
+   
+	//options setting
+	//the the previous version of Chrome40
+	"options_page": "options.html",
+	// Chrome40 or later
+	"options_ui":
+	{
+		"page": "options.html",
+		"chrome_style": true
+	},
+   
+   "description": "Auto-modify the url to load Sci-Hub page with your article",
+   "icons": {
+      "128": "icons/logo-128.png",
+      "16": "icons/logo-16.png",
+      "24": "icons/logo-24.png",
+      "256": "icons/logo-256.png",
+      "32": "icons/logo-32.png",
+      "64": "icons/logo-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnHwfoi2m5EUVIwc2QGBesVmOLNOY+a+VwzAzc2XpGXouZ/80SHNnZ4nZK+T8RkPDoowWJDSp/MtJ33EOmF9/AVeBIa/ENMJeEZdjlb7l+yJ1EzA+TPejwZ1wSRMi7LdST5Vxg26jkOfjyOyaMmkO9BdGWWQJoXNuOkHTGyfJanKKJcHi/0Rh78qpj7wYaCJUguueLTya+RSoWAnJv/n6KdGTNv9ke+mocX1LMHVSRyAryhVteOHu1MrG9GsH6ewTnmtj1zB36bK5D+0OTEvpeX7X59+MxJ/1uqY5LqcyI1pPbeAMkVE/VK+BonVsBkofTOJgTyuS068bAyOBx8YVhwIDAQAB",
+   "manifest_version": 2,
+   "name": "Auto Sci-Hub",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7"
+}
