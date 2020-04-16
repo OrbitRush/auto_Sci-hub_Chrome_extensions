@@ -27,7 +27,7 @@ The official Auto Sci-hub of chrome extensions have been ban and unable to used.
 This version add a new function of options, which can change the sci-hub domain.
 
 # 介绍
-一键从Sci-Hub上下载文章。
+一键从Sci-Hub上下载论文。
 
 ## 如何使用
 
