@@ -4,6 +4,8 @@ Keyword: Auto Sci-hub, Chrome extensions, unofficial
 
 # Introduction
 
+Auto-modify the url to load Sci-Hub page with your article.
+
 The official Auto Sci-hub of chrome extensions have been ban and unable to used, this is unofficial Chrome extensions but can use.
 
 ## How to use
